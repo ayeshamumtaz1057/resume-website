@@ -23,7 +23,7 @@ A responsive personal resume website built using HTML5 and CSS3.
 
 ## Live Demo
 
-https://ayeshamumtaz1057.github.io/resume-website/
+file:///D:/projects/resume-website/index.html
 
 ## Author
 
