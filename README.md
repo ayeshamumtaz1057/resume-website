@@ -122,6 +122,12 @@ https://github.com/ayeshamumtaz1057
 https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9
 
 ---
+ ## 📸 Preview
+
+<p align="center">
+  <img src="screenshot.png" alt="Personal Resume Website Preview" width="900">
+</p>
+---
 
 ## ⭐ Support
 
@@ -129,13 +135,8 @@ If you found this project helpful or inspiring, please consider giving it a **�
 
 Thank you for visiting my repository! 🚀
 
- ## 📸 Preview
 
-<p align="center">
-  <img src="screenshot.png" alt="Personal Resume Website Preview" width="900">
-</p>
 
----
 
 
 
