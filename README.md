@@ -12,7 +12,7 @@ This project showcases my education, technical skills, featured projects, and ca
 
 🔗 **GitHub Pages**
 
-> https://ayeshamumtaz1057.github.io/resume-website/
+https://github.com/ayeshamumtaz1057/resume-website
 
 ---
 
