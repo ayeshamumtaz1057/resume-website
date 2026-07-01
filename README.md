@@ -5,7 +5,7 @@
 This project showcases my education, technical skills, featured projects, and career aspirations in a professional and responsive web portfolio. It reflects my journey as a **Bachelor of Science in Information Technology (BSIT)** student who is passionate about technology, programming, and continuous learning.
 
 
-
+---
 
 
 ## 🚀 Live Demo
