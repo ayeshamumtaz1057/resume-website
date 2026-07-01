@@ -19,7 +19,9 @@ A responsive personal resume website built using HTML5 and CSS3.
 
 ## Preview
 
-(Add screenshot here)
+![Ayesha Mumtaz — Resume](screenshot.png)
+
+
 
 ## Live Demo
 
