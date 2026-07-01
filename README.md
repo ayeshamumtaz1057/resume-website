@@ -27,7 +27,7 @@ https://github.com/ayeshamumtaz1057/resume-website
 * 📞 Contact information
 * 🔗 GitHub & LinkedIn integration
 * ⚡ Lightweight and fast loading
-* 🎯 Easy to customize and extend
+
 
 ---
 
